@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://akashdeep-portfolio.netlify.app/](https://akashdeep-portfolio.netlify.app/)
 
-- 💬 Ask me about **JAVA, Development**
+- 💬 Ask me about **JAVA, Machine Learning**
 
 - 📫 How to reach me **2001akashdeep@gmail.com**
 
