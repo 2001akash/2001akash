@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=2001akash&label=Profile%20views&color=0e75b6&style=flat" alt="2001akash" /> </p>
 
-- 🔭 I’m currently working on **ContactsApp**
+- 🔭 I’m currently working on **DSA**
 
 - 🌱 I’m currently learning **MERN**
 
