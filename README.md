@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=2001akash&label=Profile%20views&color=0e75b6&style=flat" alt="2001akash" /> </p>
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **GEN-AI**
 
 - 👨‍💻 All of my projects are available at [https://akashdeep-portfolio.netlify.app/](https://akashdeep-portfolio.netlify.app/)
 
