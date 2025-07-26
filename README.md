@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **2001akashdeep@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/1M5StisWPgVxFERtUA8syXxwQdZg8KJ3M/view](https://drive.google.com/file/d/1O3uEg2BEXcIheC6TlTwffhpE_f-qtDX7/view?usp=sharing)]
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1M5StisWPgVxFERtUA8syXxwQdZg8KJ3M/view]([https://drive.google.com/file/d/1O3uEg2BEXcIheC6TlTwffhpE_f-qtDX7/view?usp=sharing](https://drive.google.com/file/d/1yCV6oiPxE1-k5sohYAscBg6CA8EsihO8/view?usp=sharing))]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
