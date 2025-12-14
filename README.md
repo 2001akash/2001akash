@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akash Deep</h1>
-<h3 align="center">An Software Developer</h3>
+<h3 align="center">Associate AI Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=2001akash&label=Profile%20views&color=0e75b6&style=flat" alt="2001akash" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **2001akashdeep@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/1M5StisWPgVxFERtUA8syXxwQdZg8KJ3M/view](https://drive.google.com/file/d/1yCV6oiPxE1-k5sohYAscBg6CA8EsihO8/view?usp=sharing)]
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1yCV6oiPxE1-k5sohYAscBg6CA8EsihO8/view?usp=sharing](https://drive.google.com/file/d/1rx5epMIth9GGLaGGEWWPfb-jWwYcRc2B/view))]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
